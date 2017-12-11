@@ -5,7 +5,9 @@ This repository includes some c / assembler code I have written to learn more ab
 
 
 Factorials_AVX512_final.c - small program to test different sieving methods for factorial primes.
-testfactors.py - a small python 3 to verify found factor for factorials.
+
+testfactors.py - a small python 3 program to verify found factor for factorials.
+
 factors.txt - file that contains several factors for factorial numbers. I have used these for debugging purposes.
 
 
