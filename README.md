@@ -1,4 +1,4 @@
-#Factorig
+#Factoring
 Code for factoring large integers
 
 This repository includes some c / assembler code I have written to learn more about factoring large integers and AVX512 instruction set.
