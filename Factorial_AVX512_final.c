@@ -149,7 +149,7 @@ int64_t factorial_FMA(uint64_t const nmin, uint64_t const nmax, const uint64_t *
 				if( residue == 1.0){
 					report_factor(n, -1, P[i]);
 				}
-				if(residue == prime_double - 1){
+				if(residue == prime_double - 1.0){
 					report_factor(n, 1, P[i]);
 				}
 			}
